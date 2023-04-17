@@ -1,4 +1,4 @@
-1/login-signup page 
+NAM -  1/login-signup page 
 
 2/main page:
 
@@ -10,7 +10,8 @@
 		-Add member to project 
 		-Navigate to project detail page
 
-	2.1.2/Project detail page:
+	
+MINH -	2.1.2/Project detail page:
 		-Show project details
 
 		-Creat new task (only show for pj owner)
@@ -19,9 +20,9 @@
 		-Add new member 
 
 		-Edit task:
-			+Edit task form (edit form, status, time track) (lỗi api timeTracking ❌)
+			+Edit task form (edit form, status, time track) 
 
-			+Assign/remove task's member (lỗi api ❌)
+			+Assign/remove task's member
 			+Add/Edit/Delete comments 
 
 	2.2/Create new project
